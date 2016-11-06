@@ -1,1 +1,1 @@
-numpy sympy matplotlib
+numpy sympy matplotlib ipywidgets
