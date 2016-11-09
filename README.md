@@ -5,6 +5,7 @@ In diesem Repository befinden sich Lösungen zum Tutorium Experimentalphysik 1, 
 Mit Klick auf die Dateien, beispielsweise blatt1.ipynb, lassen sich direkt auf dieser Seite statische Versionen der [Jupyter Notebooks](http://jupyter.org) anzeigen.
 
 * [Blatt 1](https://github.com/philippgadow/tutorium_experimentalphysik1/blob/master/blatt1.ipynb)
+* [Blatt 2](https://github.com/philippgadow/tutorium_experimentalphysik1/blob/master/blatt2.ipynb)
 
 Diese können auch mit dem externen [Jupyter Notebook-Viewer](http://nbviewer.jupyter.org) angezeigt werden.
 
