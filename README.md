@@ -11,4 +11,4 @@ Diese können auch mit dem externen [Jupyter Notebook-Viewer](http://nbviewer.ju
 
 Es wird empfohlen, die Notebooks interaktiv zu betrachten. Wer diese nicht herunterladen möchte und lokal auf seinem Rechner betrachten möchte, kann diese mit dem folgenden Button auch komfortabel im Browser anzeigen lassen:
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/philippgadow/tutorium_experimentalphysik1)
+[![Binder](http://tutorium.pgadow.de/images/start_notebooks.png)](http://mybinder.org:/repo/philippgadow/tutorium_experimentalphysik1)
