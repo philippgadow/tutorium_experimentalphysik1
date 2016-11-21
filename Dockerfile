@@ -10,8 +10,7 @@ RUN apt-get update
 USER main
 
 # Install requirements for Python 2
-ADD requirements.txt requirements.txt
 RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
+RUN pip install numpy sympy matplotlib ipywidgets
 
 RUN jupyter nbextension enable --py --sys-prefix widgetsnbextension
