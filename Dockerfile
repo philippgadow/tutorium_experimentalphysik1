@@ -8,8 +8,8 @@ USER root
 RUN apt-get update
 
 # Install requirements for Python
-RUN pip3 install --upgrade pip
-RUN pip3 install numpy sympy matplotlib ipywidgets
+RUN pip install --upgrade pip
+RUN pip install numpy sympy matplotlib ipywidgets
 
 
 RUN jupyter nbextension enable --py --sys-prefix widgetsnbextension
