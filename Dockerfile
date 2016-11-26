@@ -11,6 +11,4 @@ RUN apt-get update
 RUN pip install --upgrade pip
 RUN pip install numpy sympy matplotlib ipywidgets
 
-
-RUN jupyter nbextension enable --py --sys-prefix widgetsnbextension
 USER main
