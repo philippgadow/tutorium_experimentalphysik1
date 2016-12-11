@@ -10,6 +10,10 @@ Mit Klick auf die Dateien, beispielsweise blatt1.ipynb, lassen sich direkt auf d
 * [Blatt 1](https://github.com/philippgadow/tutorium_experimentalphysik1/blob/master/blatt1.ipynb)
 * [Blatt 2](https://github.com/philippgadow/tutorium_experimentalphysik1/blob/master/blatt2.ipynb)
 * [Blatt 3](https://github.com/philippgadow/tutorium_experimentalphysik1/blob/master/blatt3.ipynb)
+* [Blatt 4](https://github.com/philippgadow/tutorium_experimentalphysik1/blob/master/blatt4.ipynb)
+* [Blatt 5](https://github.com/philippgadow/tutorium_experimentalphysik1/blob/master/blatt5.ipynb)
+* [Blatt 6](https://github.com/philippgadow/tutorium_experimentalphysik1/blob/master/blatt6.ipynb)
+* [Blatt 7](https://github.com/philippgadow/tutorium_experimentalphysik1/blob/master/blatt7.ipynb)
 
 Diese können auch mit dem externen [Jupyter Notebook-Viewer](http://nbviewer.jupyter.org) angezeigt werden.
 
